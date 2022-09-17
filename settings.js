@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['+966594486001']
-global.premium = ['+966594486001']
-global.ownernomer = '+966594486001'
+global.owner = ['966594486001']
+global.premium = ['966594486001']
+global.ownernomer = '966594486001'
 global.ownername = '♛ روجر ♛'
 global.botname = '♛ غوجو بوت ♛'
 global.footer = ' غوجو بوت ♛'
@@ -29,7 +29,7 @@ global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://chat.whatsapp.com/Fk4ezdZefbK4kCNuIInjVU'
 global.myweb = 'https://www.youtube.com/channel/UCZ7p6E_NNxPTiAlR8Xp485w'
-global.packname = '+966594486001'
+global.packname = '966594486001'
 global.author = '[ غوجو ]'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
