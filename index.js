@@ -1,6 +1,6 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
+//                              akame 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
 //
 //════════════════════════════//
@@ -150,11 +150,11 @@ Tol = await getBuffer(`https://hardianto.xyz/api/goodbye3?profile=${encodeURICom
 
 ⭐✑ Description: ${metadata.desc}
 
-⭐✑ Welcome To Our Comfortable Happy😋, Sometimes Loud😜, Usually Messy🤥, Full Of Love🥰, HOME😌!!`} )
+⭐✑ اهلا وسهلا مرحب بك في هذه النقابة نتمنى لك ان تستمتع مع عائلتك المتواضعة`} )
                 } else if (anu.action == 'remove') {
                     GojoMdNx.sendMessage(anu.id, { image: Tol, contextInfo: { mentionedJid: [num] }, caption: `⭐✑ @${num.split("@")[0]} Left ${metadata.subject}
 
-⭐✑ I'm Not Sure If It Was A Goodbye Charm, But It Was Fun While It Lasted 😌✨` })
+⭐✑ سوف نفرح بخروجك 😌✨` })
                 }
             }
         } catch (err) {
